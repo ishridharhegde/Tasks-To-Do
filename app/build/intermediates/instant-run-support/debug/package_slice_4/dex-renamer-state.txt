@@ -1,0 +1,4 @@
+#Thu Mar 01 12:57:32 IST 2018
+base.0=/home/shridhar/TasksToDo/app/build/intermediates/transforms/dexMerger/debug/4
+renamed.0=classes.dex
+file.0=/home/shridhar/TasksToDo/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex
